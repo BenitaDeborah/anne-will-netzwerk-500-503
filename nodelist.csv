@@ -1,27 +1,27 @@
-id,name
-500,Anne Will 500 Konflikt Putin
-lk,Lars Klingbeil
-uvdl,Ursula von der Leyen
-nr,Norbert Röttgen
-sw,Sahra Wagenknecht
-cs,Constanze Stelzenmüller
-spd,SPD
-cdu,CDU
-linke,dieLinke
-fdp,FDP
-cl,Christian Lindner
-501,Anne Will 501 Putin Krieg Europa
-ks,Karl Schlögel
-lm,Ljudmyla Melnyk
-502,Anne Will 502 wie weit Putin geht
-alb,Annalena Bearbock
-ft,Frans Timmermans
-am,Andrij Melnyk
-agl,Alexander Graf Lambsdorff
-er,Egon Ramms
-gruene,b90gruene
-503,Anne Will 503 wie Putins Krieg beenden?
-rh,Robert Habeck
-cm,Claudia Major
-kp,Katja Petrowskaja
-rk,Roderich Kiesewetter
+id,name,type 
+500,Anne Will 500 Konflikt Putin,2
+lk,Lars Klingbeil,1
+uvdl,Ursula von der Leyen,1
+nr,Norbert Röttgen,1
+sw,Sahra Wagenknecht,1
+cs,Constanze Stelzenmüller,1
+spd,SPD,2
+cdu,CDU,2
+linke,dieLinke,2
+fdp,FDP,2
+cl,Christian Lindner,1
+501,Anne Will 501 Putin Krieg Europa,2
+ks,Karl Schlögel,1
+lm,Ljudmyla Melnyk,1
+502,Anne Will 502 wie weit Putin geht,2
+alb,Annalena Bearbock,1
+ft,Frans Timmermans,1
+am,Andrij Melnyk,1
+agl,Alexander Graf Lambsdorff,1
+er,Egon Ramms,1
+gruene,b90gruene,2
+503,Anne Will 503 wie Putins Krieg beenden?,2
+rh,Robert Habeck,1
+cm,Claudia Major,1
+kp,Katja Petrowskaja,1
+rk,Roderich Kiesewetter,1
